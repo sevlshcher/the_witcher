@@ -17,10 +17,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: linear-gradient(180deg, rgba(20, 18, 24, 0) 59.28%, #141218 100%),
-    linear-gradient(270deg, #141218 3.38%, rgba(20, 18, 24, 0) 10.43%),
-    linear-gradient(179.45deg, #141218 0.55%, rgba(20, 18, 24, 0) 8.71%),
-    url('../img/background-1.jpg') #141218 top right 20% no-repeat;
+  background: url('../img/background.jpg') #141218 top right 20% no-repeat;
 }
 .container {
   width: 95%;
